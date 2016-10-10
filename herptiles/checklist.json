@@ -1,0 +1,219 @@
+[
+    {
+        "commonName": "Blue-spotted Salamander",
+        "scientificName": "Ambystoma laterale",
+        "family": "Salamanders & Newts",
+        "native": "Native",
+        "commonness": "Uncommon"
+    },
+    {
+        "commonName": "Eastern Red-backed Salamander",
+        "scientificName": "Plethodon cinereus",
+        "family": "Salamanders & Newts",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Four-toed Salamander",
+        "scientificName": "Hemidactylium scutatum",
+        "family": "Salamanders & Newts",
+        "native": "Native",
+        "commonness": "Rare"
+    },
+    {
+        "commonName": "Jefferson Salamander",
+        "scientificName": "Ambystoma jeffersonianum",
+        "family": "Salamanders & Newts",
+        "native": "Native",
+        "commonness": "Rare"
+    },
+    {
+        "commonName": "Spotted Salamander",
+        "scientificName": "Ambystoma maculatum",
+        "family": "Salamanders & Newts",
+        "native": "Native",
+        "commonness": "Uncommon"
+    },
+    {
+        "commonName": "Mudpuppy",
+        "scientificName": "Necturus maculosus maculosus",
+        "family": "Salamanders & Newts",
+        "native": "Native",
+        "commonness": "Rare"
+    },
+    {
+        "commonName": "Red-spotted Newt",
+        "scientificName": "Notophthalmus viridescens viridescens",
+        "family": "Salamanders & Newts",
+        "native": "Native",
+        "commonness": "Uncommon"
+    },
+    {
+        "commonName": "Eastern American Toad",
+        "scientificName": "Bufo americanus americanus",
+        "family": "Frogs & Toads",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Bullfrog",
+        "scientificName": "Rana catesbeiana",
+        "family": "Frogs & Toads",
+        "native": "Native",
+        "commonness": "Uncommon"
+    },
+    {
+        "commonName": "Gray Treefrog",
+        "scientificName": "Hyla versicolor",
+        "family": "Frogs & Toads",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Green Frog",
+        "scientificName": "Rana clamitans",
+        "family": "Frogs & Toads",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Northern Leopard Frog",
+        "scientificName": "Rana pipiens",
+        "family": "Frogs & Toads",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Pickerel Frog",
+        "scientificName": "Rana palustris",
+        "family": "Frogs & Toads",
+        "native": "Native",
+        "commonness": "Rare"
+    },
+    {
+        "commonName": "Spring Peeper",
+        "scientificName": "Pseudacris crucifer",
+        "family": "Frogs & Toads",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Western Chorus Frog",
+        "scientificName": "Pseudacris triseriata",
+        "family": "Frogs & Toads",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Wood Frog",
+        "scientificName": "Rana sylvatica",
+        "family": "Frogs & Toads",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Brown Snake",
+        "scientificName": "Storeria dekayi",
+        "family": "Snakes",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Eastern Garter Snake",
+        "scientificName": "Thamnophis sirtalis sirtalis",
+        "family": "Snakes",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Eastern Milk Snake",
+        "scientificName": "Lampropeltis triangulum triangulum",
+        "family": "Snakes",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Northern Ribbonsnake",
+        "scientificName": "Thamnophis sauritus septentrionalis",
+        "family": "Snakes",
+        "native": "Native",
+        "commonness": "Rare"
+    },
+    {
+        "commonName": "Northern Ring-necked Snake",
+        "scientificName": "Diadophis punctatus edwardsii",
+        "family": "Snakes",
+        "native": "Native",
+        "commonness": "Rare"
+    },
+    {
+        "commonName": "Northern Water Snake",
+        "scientificName": "Nerodia sipedon sipedon",
+        "family": "Snakes",
+        "native": "Native",
+        "commonness": "Uncommon"
+    },
+    {
+        "commonName": "Redbelly Snake",
+        "scientificName": "Storeria occipitomaculata occipitomaculata",
+        "family": "Snakes",
+        "native": "Native",
+        "commonness": "Uncommon"
+    },
+    {
+        "commonName": "Smooth Green Snake",
+        "scientificName": "Opheodrys vernalis",
+        "family": "Snakes",
+        "native": "Native",
+        "commonness": "Uncommon"
+    },
+    {
+        "commonName": "Blanding's Turtle",
+        "scientificName": "Emydoidea blandingii",
+        "family": "Turtles",
+        "native": "Native",
+        "commonness": "Rare"
+    },
+    {
+        "commonName": "Common Musk Turtle (Stinkpot)",
+        "scientificName": "Sternotherus odoratus",
+        "family": "Turtles",
+        "native": "Native",
+        "commonness": "Rare"
+    },
+    {
+        "commonName": "Eastern Spiny Softshell",
+        "scientificName": "Apalone spinifera spinifera",
+        "family": "Turtles",
+        "native": "Native",
+        "commonness": "Extirpated"
+    },
+    {
+        "commonName": "Midland Painted Turtle",
+        "scientificName": "Chrysemys picta marginata",
+        "family": "Turtles",
+        "native": "Native",
+        "commonness": "Common"
+    },
+    {
+        "commonName": "Northern Map Turtle",
+        "scientificName": "Graptemys geographica",
+        "family": "Turtles",
+        "native": "Native",
+        "commonness": "Rare"
+    },
+    {
+        "commonName": "Red-eared Slider",
+        "scientificName": "Trachemys scripta elegans",
+        "family": "Turtles",
+        "native": "Exotic",
+        "commonness": "Unknown"
+    },
+    {
+        "commonName": "Snapping Turtle",
+        "scientificName": "Chelydra serpentina",
+        "family": "Turtles",
+        "native": "Native",
+        "commonness": "Common"
+    }
+]
