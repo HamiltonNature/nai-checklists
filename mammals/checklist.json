@@ -1,0 +1,303 @@
+[
+    {
+        "commonName": "American Badger",
+        "scientificName": "Taxidea jacksoni",
+        "family": "Carnivores",
+        "native": "Native",
+        "occurrence": "Rare"
+    },
+    {
+        "commonName": "American Mink",
+        "scientificName": "Mustela vison",
+        "family": "Carnivores",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Coyote",
+        "scientificName": "Canis latrans",
+        "family": "Carnivores",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Ermine",
+        "scientificName": "Mustela erminea",
+        "family": "Carnivores",
+        "native": "Native",
+        "occurrence": "Rare to Uncommon"
+    },
+    {
+        "commonName": "Long-tailed Weasel",
+        "scientificName": "Mustela frenata",
+        "family": "Carnivores",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "North American River Otter",
+        "scientificName": "Lontra canadensis",
+        "family": "Carnivores",
+        "native": "Native",
+        "occurrence": "Rare"
+    },
+    {
+        "commonName": "Raccoon",
+        "scientificName": "Procyon lotor",
+        "family": "Carnivores",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Red Fox",
+        "scientificName": "Vulpes vulpes",
+        "family": "Carnivores",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Striped Skunk",
+        "scientificName": "Mephitis mephitis",
+        "family": "Carnivores",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Masked Shrew",
+        "scientificName": "Sorex cinereus",
+        "family": "Shrews & Moles",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Northern Short-tailed Shrew",
+        "scientificName": "Blarina brevicauda",
+        "family": "Shrews & Moles",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Smoky Shrew",
+        "scientificName": "Sorex fumeus",
+        "family": "Shrews & Moles",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Water Shrew",
+        "scientificName": "Sorex palustris",
+        "family": "Shrews & Moles",
+        "native": "Native",
+        "occurrence": "Uncommon"
+    },
+    {
+        "commonName": "Hairy-tailed Mole",
+        "scientificName": "Parascalops breweri",
+        "family": "Shrews & Moles",
+        "native": "Native",
+        "occurrence": "Uncommon"
+    },
+    {
+        "commonName": "Star-nosed Mole",
+        "scientificName": "Condylura cristata",
+        "family": "Shrews & Moles",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Big Brown Bat",
+        "scientificName": "Eptesicus fuscus",
+        "family": "Bats",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Hoary Bat",
+        "scientificName": "Lasiurus cinereus",
+        "family": "Bats",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Little Brown Bat",
+        "scientificName": "Myotis lucifugus",
+        "family": "Bats",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Northern Long-eared Bat",
+        "scientificName": "Myotis septentrionalis",
+        "family": "Bats",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Eastern Red Bat",
+        "scientificName": "Lasiurus borealis",
+        "family": "Bats",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Silver-haired Bat",
+        "scientificName": "Lasionycteris noctivagans",
+        "family": "Bats",
+        "native": "Native",
+        "occurrence": "Rare"
+    },
+    {
+        "commonName": "Eastern Cottontail",
+        "scientificName": "Sylvilagus floridanus",
+        "family": "Rabbits & Hares",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "European Hare",
+        "scientificName": "Lepus europaeus",
+        "family": "Rabbits & Hares",
+        "native": "Exotic",
+        "occurrence": "Unknown"
+    },
+    {
+        "commonName": "Snowshoe Hare",
+        "scientificName": "Lepus americanus",
+        "family": "Rabbits & Hares",
+        "native": "Native",
+        "occurrence": "Rare or Extirpated"
+    },
+    {
+        "commonName": "Virginia Opossum",
+        "scientificName": "Didelphis virginiana",
+        "family": "Opossums",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "White-tailed Deer",
+        "scientificName": "Odocoileus virginianus",
+        "family": "Deer",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Beaver",
+        "scientificName": "Castor canadensis",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Muskrat",
+        "scientificName": "Ondatra zibethicus",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Woodchuck",
+        "scientificName": "Marmota monax",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Deer Mouse",
+        "scientificName": "Peromyscus maniculatus",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "House Mouse",
+        "scientificName": "Mus musculus",
+        "family": "Rodents",
+        "native": "Exotic",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Meadow Jumping Mouse",
+        "scientificName": "Zapus hudsonius",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "White-footed Mouse",
+        "scientificName": "Peromyscus leucopus",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Woodland Jumping Mouse",
+        "scientificName": "Napaeozapus insignis",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Uncommon"
+    },
+    {
+        "commonName": "Meadow Vole",
+        "scientificName": "Microtus pennsylvanicus",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Woodland Vole",
+        "scientificName": "Pitymys pinetorum",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Rare"
+    },
+    {
+        "commonName": "Eastern Chipmunk",
+        "scientificName": "Tamias striatus",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Eastern Gray Squirrel",
+        "scientificName": "Sciurus carolinensis",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Northern Flying Squirrel",
+        "scientificName": "Glaucomys sabrinus",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Rare"
+    },
+    {
+        "commonName": "Red Squirrel",
+        "scientificName": "Tamiasciurus hudsonicus",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Southern Flying Squirrel",
+        "scientificName": "Glaucomys volans",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Norway Rat",
+        "scientificName": "Rattus norvegicus",
+        "family": "Rodents",
+        "native": "Exotic",
+        "occurrence": "Common"
+    },
+    {
+        "commonName": "Porcupine",
+        "scientificName": "Erethizon dorsatum",
+        "family": "Rodents",
+        "native": "Native",
+        "occurrence": "Common"
+    }
+]
